@@ -4,8 +4,7 @@
 ##### Sobre Mim 
 > * Cabo da Força Aerea Brasileira (__FAB__) ;<br>
 > * Formado em Gestão de TI em 2020 🎓;<br>
-> * Em busca de novos conhecimentos;
-> * ~~Sou **Gay**~~.
+> * Em busca de novos conhecimentos.
 
 ##### Contato
 
