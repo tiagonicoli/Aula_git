@@ -1,8 +1,8 @@
-# Aula_git
-### Comandos git finalizando aula de git e github
+# Aula_GitHub
+### Senai Brasília Desenvolvedor <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" height="25"/> - 2023
 
+##### Sobre Mim 
+> * Cabo da Força Aerea Brasileira (__FAB__) ;<br>
+> * Formado em Gestão de TI em 2020 🎓;<br>
+> * ~~Sou **Gay**~~.
 
-estou no novo ramo (branch)
-
-alteração feita localmente  
-alteração feita no github
