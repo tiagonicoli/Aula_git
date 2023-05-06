@@ -4,5 +4,14 @@
 ##### Sobre Mim 
 > * Cabo da Força Aerea Brasileira (__FAB__) ;<br>
 > * Formado em Gestão de TI em 2020 🎓;<br>
+> * Em busca de novos conhecimentos;
 > * ~~Sou **Gay**~~.
 
+##### Contato
+
+<a href="https://api.whatsapp.com/send?phone=556192807994&text=Ol%C3%A1%20vi%20seu%20perfil%20no%20GitHub."> ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+<a href="mailto:tiagonicole2009@gmail.com?subject=&body=Ol%C3%A1%20vi%20seu%20perfil%20no%20GitHub!"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
